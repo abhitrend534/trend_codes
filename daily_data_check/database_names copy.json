@@ -1,0 +1,513 @@
+{
+    "clothing": {
+        "Monday": {
+            "alo": [
+                "crawler_sink_alo_canada",
+                "crawler_sink_alo_uk",
+                "crawler_sink_alo_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_canada",
+                "crawler_sink_bershka_india",
+                "crawler_sink_bershka_saudi",
+                "crawler_sink_bershka_spain"
+            ],
+            "gant": [
+                "crawler_sink_gant_uae"
+            ],
+            "gymshark": [
+                "crawler_sink_gymshark_uk"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_saudi",
+                "crawler_sink_h&m_uae"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_saudi",
+                "crawler_sink_lefties_spain"
+            ],
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "mango": [
+                "crawler_sink_mango_india",
+                "crawler_sink_mango_saudi",
+                "crawler_sink_mango_uae"
+            ],
+            "next": [
+                "crawler_sink_next_india",
+                "crawler_sink_next_uk"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "paige": [
+                "crawler_sink_paige_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_uk"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_australia",
+                "crawler_sink_pull&bear_saudi",
+                "crawler_sink_pull&bear_spain",
+                "crawler_sink_pull&bear_turkey"
+            ],
+            "riverisland": [
+                "crawler_sink_riverisland_uk",
+                "crawler_sink_riverisland_usa"
+            ],
+            "sacoor_brothers": [
+                "crawler_sink_sacoor_brothers_uae"
+            ],
+            "shein": [
+                "crawler_sink_shein_india"
+            ],
+            "snitch": [
+                "crawler_sink_snitch_india"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_canada",
+                "crawler_sink_stradivarius_saudi",
+                "crawler_sink_stradivarius_spain",
+                "crawler_sink_stradivarius_turkey"
+            ],
+            "uspolo": [
+                "crawler_sink_uspolo_india"
+            ],
+            "zara": [
+                "crawler_sink_zara_australia",
+                "crawler_sink_zara_canada",
+                "crawler_sink_zara_india",
+                "crawler_sink_zara_saudi",
+                "crawler_sink_zara_spain"
+            ]
+        },
+        "Tuesday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_turkey",
+                "crawler_sink_bershka_uae",
+                "crawler_sink_bershka_uk",
+                "crawler_sink_bershka_usa"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_india",
+                "crawler_sink_h&m_uk"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_turkey",
+                "crawler_sink_lefties_uae"
+            ],
+            "mango": [
+                "crawler_sink_mango_uk",
+                "crawler_sink_mango_usa"
+            ],
+            "next": [
+                "crawler_sink_next_saudi",
+                "crawler_sink_next_uae"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_usa"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_uae",
+                "crawler_sink_pull&bear_uk",
+                "crawler_sink_pull&bear_usa"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_uae",
+                "crawler_sink_stradivarius_uk",
+                "crawler_sink_stradivarius_usa"
+            ],
+            "zara": [
+                "crawler_sink_zara_turkey",
+                "crawler_sink_zara_uae",
+                "crawler_sink_zara_uk",
+                "crawler_sink_zara_usa"
+            ]
+        },
+        "Wednesday": {
+            "alo": [
+                "crawler_sink_alo_canada",
+                "crawler_sink_alo_uk",
+                "crawler_sink_alo_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_canada",
+                "crawler_sink_bershka_india",
+                "crawler_sink_bershka_saudi",
+                "crawler_sink_bershka_spain"
+            ],
+            "gymshark": [
+                "crawler_sink_gymshark_uk"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_saudi",
+                "crawler_sink_h&m_uae"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_saudi",
+                "crawler_sink_lefties_spain"
+            ],
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "mango": [
+                "crawler_sink_mango_india",
+                "crawler_sink_mango_saudi",
+                "crawler_sink_mango_uae"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "next": [
+                "crawler_sink_next_india",
+                "crawler_sink_next_uk"
+            ],
+            "paige": [
+                "crawler_sink_paige_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_uk"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_australia",
+                "crawler_sink_pull&bear_saudi",
+                "crawler_sink_pull&bear_spain",
+                "crawler_sink_pull&bear_turkey"
+            ],
+            "riverisland": [
+                "crawler_sink_riverisland_uk",
+                "crawler_sink_riverisland_usa"
+            ],
+            "sacoor_brothers": [
+                "crawler_sink_sacoor_brothers_uae"
+            ],
+            "shein": [
+                "crawler_sink_shein_india"
+            ],
+            "snitch": [
+                "crawler_sink_snitch_india"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_canada",
+                "crawler_sink_stradivarius_saudi",
+                "crawler_sink_stradivarius_spain",
+                "crawler_sink_stradivarius_turkey"
+            ],
+            "uspolo": [
+                "crawler_sink_uspolo_india"
+            ],
+            "zara": [
+                "crawler_sink_zara_australia",
+                "crawler_sink_zara_canada",
+                "crawler_sink_zara_india",
+                "crawler_sink_zara_saudi",
+                "crawler_sink_zara_spain"
+            ]
+        },
+        "Thursday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_turkey",
+                "crawler_sink_bershka_uae",
+                "crawler_sink_bershka_uk",
+                "crawler_sink_bershka_usa"
+            ],
+            "gant": [
+                "crawler_sink_gant_uae"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_india",
+                "crawler_sink_h&m_uk"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_turkey",
+                "crawler_sink_lefties_uae"
+            ],
+            "mango": [
+                "crawler_sink_mango_uk",
+                "crawler_sink_mango_usa"
+            ],
+            "next": [
+                "crawler_sink_next_saudi",
+                "crawler_sink_next_uae"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_usa"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_uae",
+                "crawler_sink_pull&bear_uk",
+                "crawler_sink_pull&bear_usa"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_uae",
+                "crawler_sink_stradivarius_uk",
+                "crawler_sink_stradivarius_usa"
+            ],
+            "zara": [
+                "crawler_sink_zara_turkey",
+                "crawler_sink_zara_uae",
+                "crawler_sink_zara_uk",
+                "crawler_sink_zara_usa"
+            ]
+        },
+        "Friday": {
+            "alo": [
+                "crawler_sink_alo_canada",
+                "crawler_sink_alo_uk",
+                "crawler_sink_alo_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_canada",
+                "crawler_sink_bershka_india",
+                "crawler_sink_bershka_saudi",
+                "crawler_sink_bershka_spain"
+            ],
+            "gymshark": [
+                "crawler_sink_gymshark_uk"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_saudi",
+                "crawler_sink_h&m_uae"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_saudi",
+                "crawler_sink_lefties_spain"
+            ],
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "mango": [
+                "crawler_sink_mango_india",
+                "crawler_sink_mango_saudi",
+                "crawler_sink_mango_uae"
+            ],
+            "next": [
+                "crawler_sink_next_india",
+                "crawler_sink_next_uk"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "paige": [
+                "crawler_sink_paige_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_uk"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_australia",
+                "crawler_sink_pull&bear_saudi",
+                "crawler_sink_pull&bear_spain",
+                "crawler_sink_pull&bear_turkey"
+            ],
+            "riverisland": [
+                "crawler_sink_riverisland_uk",
+                "crawler_sink_riverisland_usa"
+            ],
+            "sacoor_brothers": [
+                "crawler_sink_sacoor_brothers_uae"
+            ],
+            "shein": [
+                "crawler_sink_shein_india"
+            ],
+            "snitch": [
+                "crawler_sink_snitch_india"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_canada",
+                "crawler_sink_stradivarius_saudi",
+                "crawler_sink_stradivarius_spain",
+                "crawler_sink_stradivarius_turkey"
+            ],
+            "uspolo": [
+                "crawler_sink_uspolo_india"
+            ],
+            "zara": [
+                "crawler_sink_zara_australia",
+                "crawler_sink_zara_canada",
+                "crawler_sink_zara_india",
+                "crawler_sink_zara_saudi",
+                "crawler_sink_zara_spain"
+            ]
+        },
+        "Saturday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "bershka": [
+                "crawler_sink_bershka_turkey",
+                "crawler_sink_bershka_uae",
+                "crawler_sink_bershka_uk",
+                "crawler_sink_bershka_usa"
+            ],
+            "h&m": [
+                "crawler_sink_h&m_india",
+                "crawler_sink_h&m_uk"
+            ],
+            "lefties": [
+                "crawler_sink_lefties_turkey",
+                "crawler_sink_lefties_uae"
+            ],
+            "mango": [
+                "crawler_sink_mango_uk",
+                "crawler_sink_mango_usa"
+            ],
+            "next": [
+                "crawler_sink_next_saudi",
+                "crawler_sink_next_uae"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "primark": [
+                "crawler_sink_primark_usa"
+            ],
+            "pull&bear": [
+                "crawler_sink_pull&bear_uae",
+                "crawler_sink_pull&bear_uk",
+                "crawler_sink_pull&bear_usa"
+            ],
+            "stradivarius": [
+                "crawler_sink_stradivarius_uae",
+                "crawler_sink_stradivarius_uk",
+                "crawler_sink_stradivarius_usa"
+            ],
+            "zara": [
+                "crawler_sink_zara_turkey",
+                "crawler_sink_zara_uae",
+                "crawler_sink_zara_uk",
+                "crawler_sink_zara_usa"
+            ]
+        }
+    },
+    "footwear": {
+        "Monday": {
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        },
+        "Tuesday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        },
+        "Wednesday": {
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        },
+        "Thursday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        },
+        "Friday": {
+            "lululemon": [
+                "crawler_sink_lululemon_canada",
+                "crawler_sink_lululemon_usa"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        },
+        "Saturday": {
+            "asics": [
+                "crawler_sink_asics_india"
+            ],
+            "on": [
+                "crawler_sink_on_uae",
+                "crawler_sink_on_uk",
+                "crawler_sink_on_usa"
+            ],
+            "skechers": [
+                "crawler_sink_skechers_india"
+            ]
+        }
+    }
+}

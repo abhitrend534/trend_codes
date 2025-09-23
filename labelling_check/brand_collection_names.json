@@ -1,0 +1,186 @@
+{
+    "clothing": {
+        "alo": {
+            "product_collection_name": "v3_products_alo",
+            "color_collection_name": "v3_colors_alo"
+        },
+        "asics": {
+            "product_collection_name": "v3_products_asics",
+            "color_collection_name": "v3_colors_asics"
+        },
+        "bershka": {
+            "product_collection_name": "v3_products_bershka",
+            "color_collection_name": "v3_colors_bershka"
+        },
+        "enamor": {
+            "product_collection_name": "v3_products_enamor",
+            "color_collection_name": "v3_colors_enamor"
+        },
+        "gant": {
+            "product_collection_name": "v3_products_gant",
+            "color_collection_name": "v3_colors_gant"
+        },
+        "gymshark": {
+            "product_collection_name": "v3_products_gymshark",
+            "color_collection_name": "v3_colors_gymshark"
+        },
+        "h&m": {
+            "product_collection_name": "v3_products_h&m",
+            "color_collection_name": "v3_colors_h&m"
+        },
+        "kith": {
+            "product_collection_name": "v3_products_kith",
+            "color_collection_name": "v3_colors_kith"
+        },
+        "lefties": {
+            "product_collection_name": "v3_products_lefties",
+            "color_collection_name": "v3_colors_lefties"
+        },
+        "lewkin": {
+            "product_collection_name": "v3_products_lewkin",
+            "color_collection_name": "v3_colors_lewkin"
+        },
+        "lululemon": {
+            "product_collection_name": "v3_products_lululemon",
+            "color_collection_name": "v3_colors_lululemon"
+        },
+        "mango": {
+            "product_collection_name": "v3_products_mango",
+            "color_collection_name": "v3_colors_mango"
+        },
+        "marknspencer": {
+            "product_collection_name": "v3_products_marknspencer",
+            "color_collection_name": "v3_colors_marknspencer"
+        },
+        "newbalance": {
+            "product_collection_name": "v3_products_newbalance",
+            "color_collection_name": "v3_colors_newbalance"
+        },
+        "next": {
+            "product_collection_name": "v3_products_next",
+            "color_collection_name": "v3_colors_next"
+        },
+        "nike": {
+            "product_collection_name": "v3_products_nike",
+            "color_collection_name": "v3_colors_nike"
+        },
+        "nike_acg": {
+            "product_collection_name": "v3_products_nike_acg",
+            "color_collection_name": "v3_colors_nike_acg"
+        },
+        "nike_jordan": {
+            "product_collection_name": "v3_products_nike_jordan",
+            "color_collection_name": "v3_colors_nike_jordan"
+        },
+        "on": {
+            "product_collection_name": "v3_products_on",
+            "color_collection_name": "v3_colors_on"
+        },
+        "paige": {
+            "product_collection_name": "v3_products_paige",
+            "color_collection_name": "v3_colors_paige"
+        },
+        "primark": {
+            "product_collection_name": "v3_products_primark",
+            "color_collection_name": "v3_colors_primark"
+        },
+        "pull&bear": {
+            "product_collection_name": "v3_products_pull&bear",
+            "color_collection_name": "v3_colors_pull&bear"
+        },
+        "puma": {
+            "product_collection_name": "v3_products_puma",
+            "color_collection_name": "v3_colors_puma"
+        },
+        "riverisland": {
+            "product_collection_name": "v3_products_riverisland",
+            "color_collection_name": "v3_colors_riverisland"
+        },
+        "sacoor_brothers": {
+            "product_collection_name": "v3_products_sacoor_brothers",
+            "color_collection_name": "v3_colors_sacoor_brothers"
+        },
+        "shein": {
+            "product_collection_name": "v3_products_shein",
+            "color_collection_name": "v3_colors_shein"
+        },
+        "skechers": {
+            "product_collection_name": "v3_products_skechers",
+            "color_collection_name": "v3_colors_skechers"
+        },
+        "snitch": {
+            "product_collection_name": "v3_products_snitch",
+            "color_collection_name": "v3_colors_snitch"
+        },
+        "stradivarius": {
+            "product_collection_name": "v3_products_stradivarius",
+            "color_collection_name": "v3_colors_stradivarius"
+        },
+        "underarmour": {
+            "product_collection_name": "v3_products_underarmour",
+            "color_collection_name": "v3_colors_underarmour"
+        },
+        "uspolo": {
+            "product_collection_name": "v3_products_uspolo",
+            "color_collection_name": "v3_colors_uspolo"
+        },
+        "zara": {
+            "product_collection_name": "v3_products_zara",
+            "color_collection_name": "v3_colors_zara"
+        }
+    },
+    "footwear": {
+        "asics": {
+            "product_collection_name": "v3_products_asics",
+            "color_collection_name": "v3_colors_asics"
+        },
+        "hoka": {
+            "product_collection_name": "v3_products_hoka",
+            "color_collection_name": "v3_colors_hoka"
+        },
+        "kith": {
+            "product_collection_name": "v3_products_kith",
+            "color_collection_name": "v3_colors_kith"
+        },
+        "lululemon": {
+            "product_collection_name": "v3_products_lululemon",
+            "color_collection_name": "v3_colors_lululemon"
+        },
+        "marknspencer": {
+            "product_collection_name": "v3_products_marknspencer",
+            "color_collection_name": "v3_colors_marknspencer"
+        },
+        "newbalance": {
+            "product_collection_name": "v3_products_newbalance",
+            "color_collection_name": "v3_colors_newbalance"
+        },
+        "nike": {
+            "product_collection_name": "v3_products_nike",
+            "color_collection_name": "v3_colors_nike"
+        },
+        "nike_acg": {
+            "product_collection_name": "v3_products_nike_acg",
+            "color_collection_name": "v3_colors_nike_acg"
+        },
+        "nike_jordan": {
+            "product_collection_name": "v3_products_nike_jordan",
+            "color_collection_name": "v3_colors_nike_jordan"
+        },
+        "on": {
+            "product_collection_name": "v3_products_on",
+            "color_collection_name": "v3_colors_on"
+        },
+        "puma": {
+            "product_collection_name": "v3_products_puma",
+            "color_collection_name": "v3_colors_puma"
+        },
+        "skechers": {
+            "product_collection_name": "v3_products_skechers",
+            "color_collection_name": "v3_colors_skechers"
+        },
+        "underarmour": {
+            "product_collection_name": "v3_products_underarmour",
+            "color_collection_name": "v3_colors_underarmour"
+        }
+    }
+}

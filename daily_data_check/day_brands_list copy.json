@@ -1,0 +1,802 @@
+{
+    "clothing": {
+        "alo": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "canada",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "asics": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uae"
+                ]
+            }
+        ],
+        "bershka": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "canada",
+                    "india",
+                    "saudi",
+                    "spain"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "gant": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uae"
+                ]
+            }
+        ],
+        "gymshark": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uk"
+                ]
+            }
+        ],
+        "h&m": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "saudi",
+                    "uae"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            }
+        ],
+        "lefties": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae"
+                ]
+            }
+        ],
+        "lululemon": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "canada",
+                    "usa"
+                ]
+            }
+        ],
+        "mango": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "saudi",
+                    "uae"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "newbalance": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uae"
+                ]
+            }
+        ],
+        "next": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "saudi",
+                    "uae"
+                ]
+            }
+        ],
+        "nike_acg": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "nike": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "nike_jordan": [
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "on": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "paige": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "usa"
+                ]
+            }
+        ],
+        "primark": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "pull&bear": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "australia",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "australia",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "riverisland": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "sacoor_brothers": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "saudi",
+                    "uae"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "saudi",
+                    "uae"
+                ]
+            }
+        ],
+        "shein": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            }
+        ],
+        "skechers": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            }
+        ],
+        "snitch": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            }
+        ],
+        "stradivarius": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "canada",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "canada",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "underarmour": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            }
+        ],
+        "uspolo": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            }
+        ],
+        "zara": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "australia",
+                    "canada",
+                    "india",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "australia",
+                    "canada",
+                    "india",
+                    "saudi",
+                    "spain",
+                    "turkey",
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ]
+    },
+    "footwear": {
+        "asics": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uae"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uae"
+                ]
+            }
+        ],
+        "hoka": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "lululemon": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "canada",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "canada",
+                    "usa"
+                ]
+            }
+        ],
+        "newbalance": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uae"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uae"
+                ]
+            }
+        ],
+        "nike_acg": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "nike": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "nike_jordan": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "on": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "uae",
+                    "uk",
+                    "usa"
+                ]
+            }
+        ],
+        "skechers": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india"
+                ]
+            }
+        ],
+        "underarmour": [
+            {
+                "days": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            },
+            {
+                "days": [
+                    "Tuesday",
+                    "Thursday",
+                    "Saturday"
+                ],
+                "geography": [
+                    "india",
+                    "uk"
+                ]
+            }
+        ]
+    }
+}
